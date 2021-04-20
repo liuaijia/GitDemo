@@ -15,6 +15,8 @@ public class CLient {
 		System.out.println(m1==m2);
 		System.out.println(m1==m3);
 		System.out.println(m2==m3);
+
+		ssssss
 	}
 	
 
